@@ -8,8 +8,8 @@ few years and look at the difference, average, and pattern.
 - In December we can see that the average temperature o has been 71 °F.
 - The coldest ever in the past few years in December has been 56 °F.
 - It was also recorded to have been 83 °F in December.
-![June Summary]()
-![December Summary]()
+![June Summary](https://github.com/coocoojames/Surfs_Up/blob/main/Resources/June%20Summary.png)
+![December Summary](https://github.com/coocoojames/Surfs_Up/blob/main/Resources/December%20Summary.png)
 
 ## Summary
 &emsp The entries of both June and December data are fairly large with June having 1700 and December having 1517.
